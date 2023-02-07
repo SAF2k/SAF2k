@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAF2k
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me Emial: safwathkhan2@gmial.com
+- 📫 How to reach me Emial: safwathkhan2@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
