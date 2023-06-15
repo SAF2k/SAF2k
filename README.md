@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAF2k
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently Working on E-commerce site
 - 📫 How to reach me Email: safwathkhan2@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
