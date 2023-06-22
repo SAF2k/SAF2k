@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAF2k
-- 👀 I’m FrondEnd Web Development
+- 👀 I’m a FrondEnd Web Development
 - 🌱 I’m currently Working on PHP site
 - 📫 How to reach me Email: safwathkhan2@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
