@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAF2k
+- 👋 Hi, I’m Safwat
 - 👀 I’m a FrondEnd Web Development
 - 🌱 I’m currently Working on PHP site
 - 📫 How to reach me Email: safwathkhan2@gmail.com
