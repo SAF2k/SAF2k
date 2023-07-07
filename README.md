@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Safwat
 - 👀 I’m a FrondEnd Web Development
-- 🌱 I’m currently Working on PHP site
+- 🌱 I’m currently Working on Ecommerce-Admin site (nextjs) 
 - 📫 How to reach me Email: safwathkhan2@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
