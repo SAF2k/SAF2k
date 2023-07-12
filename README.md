@@ -10,14 +10,12 @@ You can click the Preview link to take a look at your changes.
 
 CV link - https://www.canva.com/design/DAFZ5zqw6S0/t4pLrbk88dW6OEOXFI2CwA/view?utm_content=DAFZ5zqw6S0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 --->
-
-## 👨‍💻 Based on VS Code I spent my time on (Since 04 Jan, 2023 )
 <div style="display: flex;">
 
 
-[![wakatime](https://wakatime.com/badge/user/6ad2a5db-a1e5-4a94-8820-104645c6ad68.svg)](https://wakatime.com/@5b325b0c-e882-4d81-bc06-c8b5d9a35008)
+[![wakatime](https://wakatime.com/badge/user/5b325b0c-e882-4d81-bc06-c8b5d9a35008.svg)](https://wakatime.com/@5b325b0c-e882-4d81-bc06-c8b5d9a35008)
 [![github](https://img.shields.io/github/followers/anisAronno?logo=github&style=plastic)](https://github.com/SAF2k?tab=followers)
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"><a href="https://github.com/anisAronno"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=anisAronno&style=plastic&color=blueviolet" width="100"/></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"><a href="https://github.com/anisAronno"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=SAF2k&style=plastic&color=blueviolet" width="100"/></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 </div>
 <br/>
