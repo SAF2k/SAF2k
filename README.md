@@ -10,8 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 CV link - https://www.canva.com/design/DAFZ5zqw6S0/t4pLrbk88dW6OEOXFI2CwA/view?utm_content=DAFZ5zqw6S0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 --->
-<div style="display: flex;">
 
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SAF2k&layout=compact&theme=radical&count_private=true)](https://github.com/SAF2k)
