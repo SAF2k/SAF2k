@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saf_2k" target="blank"><img src="https://img.shields.io/twitter/follow/saf_2k?logo=twitter&style=for-the-badge" alt="saf_2k" /></a> </p>
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Framer Motion**
 
 - 💬 Ask me about **react, next**
 
