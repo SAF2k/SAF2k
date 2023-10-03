@@ -8,6 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saf2k&label=Profile%20views&color=0e75b6&style=flat" alt="saf2k" /> </p>
 
+<br>
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20996%26project%3D%26in%3D0)](https://codetime.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safwat-s-khan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saf_2k) 
