@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 # 💫 About Me:
 🔭 I’m currently working on   [Restaurant Management - (Golang)](https://github.com/SAF2k/restaurant-management)
-<br>🤝 I’m looking for help with Backend and Devops<br>🌱 I’m currently learning Golang<br>💬 Ask me about  **React, Next**<br>📫 How to reach me **safwathkhan2@gmail.com**
+<br>🤝 I’m looking for help with Backend and Devops<br>🌱 I’m currently learning DevOps<br>💬 Ask me about  **React, Next**<br>📫 How to reach me **safwathkhan2@gmail.com**
 <br>
 <br>
 
